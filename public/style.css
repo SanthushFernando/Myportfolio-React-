@@ -1,0 +1,341 @@
+
+
+
+.hed{
+    
+font-family:sans-serif;
+font-style:normal;
+font-weight:700;
+font-size: 100px;
+line-height: 110px;
+color: #FFFFFF;
+padding-top: 6rem;
+padding-left: 3rem;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+   
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display:grid;
+    color: white;
+    text-align: center;
+    padding: 10px 41.5px;
+    font-weight:bold;
+    
+  }
+  
+  li a:hover {
+    background-color:#FCD000;
+    opacity: 0.5;
+   
+  }
+
+span{
+  color:#FCD000;
+    }
+    
+    .para{
+
+  
+  font-family:sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 42px;
+  color: #FFFFFF;
+    }
+  .seg{
+   
+  
+  font-family:sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  color:#FFFFFF;
+  }
+  .but{
+   
+    padding-left:4rem;
+    margin-left: 7rem;
+    height: 50px;
+    width: 300px;
+    background-color: #FCD000;
+    opacity: 0.8;
+    border-radius:20px; 
+    text-align: center;}
+    .about{
+        padding-right: 3.5rem;
+        text-align: center;
+        font-weight: bold;
+        font-size: 25px;
+        font-family: sans-serif;
+        color: black;
+    }
+    .circle{
+       margin-left: 4rem;
+        width: 400px;
+        height: 400px;
+        max-width: 100%;
+        height: auto;
+        
+      }
+      .p1{
+       
+       margin-top:11rem;
+       font-family:sans-serif;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 23px;
+       line-height: 30px;
+       color: #FFFFFF;
+       
+       }
+       .big{
+        
+       font-family:sans-serif;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 23px;
+       line-height: 30px;
+       color: #FFFFFF;
+       
+       }
+       .edu{
+        
+        opacity: 0.3;
+        height: 400px;
+        width: 1300px;
+        margin-left: 1rem;
+        margin-top: 5rem;
+        border-radius: 30px;
+        
+       }
+       .edup{
+
+        
+        font-family:sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 27px;
+        line-height: 39px;
+
+        color: #FFFFFF;
+
+       }
+
+       .edup2{
+        
+        font-family:sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 39px;
+        
+
+        color: #FFFFFF;
+       }
+       
+        .container {
+            position: relative;
+            text-align: center;
+            color: #FFFFFF;
+       }
+       .top-left{
+        position:absolute;
+        top: 130px;
+        left: 70px;
+
+       }
+
+       .top-right{
+        position: absolute;
+        top: 133px;
+        right:300px;
+        }
+        .top-rightdown{
+            position: absolute;
+            top: 170px;
+            right:377px;
+
+        }
+       .bottom-left{
+        position: absolute;
+        bottom:83px;
+        left:70px;
+       }
+       .bottom-right{
+        position: absolute;
+        bottom:120px;
+        right:190px;
+       }
+       .bottom-rightdown{
+        position: absolute;
+        bottom:80px;
+        right:240px;
+       }
+       .bottom-rightdown2{
+        position: absolute;
+        bottom:50px;
+        right:206px;
+       }
+     .me{
+        padding-left:3rem;
+        padding-top:4.9rem;
+     }
+     .me8{
+      padding-left:3rem;
+      padding-top:8rem;
+     }
+     .me9{
+      padding-left:3rem;
+      padding-top:8rem;
+     }
+
+
+
+
+
+      .con{
+        opacity: 0.3;
+        height: 400px;
+        width: 1300px;
+        border-radius: 50px;
+      
+        margin-top: 5rem;
+      }
+      .lasthed{
+        font-family:sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 48px;
+
+color: #FFFFFF;
+      }
+      .tl{
+        position:absolute;
+        top: 110px;
+        left: 70px;
+      }
+      .tm{
+        position:absolute;
+        top: 190px;
+        left: 70px;
+      }
+      .logo{
+        
+        width: 80px;
+        height: 70px; 
+      }
+      .fword{
+font-family:sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 30px;
+color: #FFFFFF;
+position:relative;
+top:-25px;
+
+      }
+     
+      .insta{
+        width: 50px;
+        height: 45px; 
+        border-radius:5px;
+      }
+      
+      .mm{
+            position:absolute;
+            top: 280px;
+            left: 85px;
+      }
+      .iword{
+        font-family:sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 30px;
+        color: #FFFFFF;
+        position:relative;
+        top:-15px;
+        
+              }
+    
+              .mail{
+                width: 50px;
+                height: 45px; 
+                border-radius:5px;
+              }
+              .md{
+                position:absolute;
+                top: 360px;
+                left: 85px;
+            }
+            .mword{
+                font-family:sans-serif;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 20px;
+                line-height: 30px;
+                color: #FFFFFF;
+                position:relative;
+                top:-13px;
+            }
+            .tr{
+                position:absolute;
+                top: 205px;
+                right:400px;
+              }
+              .contact{
+                width: 50px;
+                height: 45px; 
+                border-radius:5px;
+              }
+              .cword{
+                font-family:sans-serif;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 20px;
+                line-height: 30px;
+                color: #FFFFFF;
+                position:relative;
+                top:-16px;
+            }
+
+            .loc{
+                width: 50px;
+                height: 50px; 
+                border-radius:5px;
+            }
+            .mr{
+                position:absolute;
+                top: 280px;
+                right:377px;
+              }
+              .lword{
+                font-family:sans-serif;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 20px;
+                line-height: 30px;
+                color: #FFFFFF;
+                position:relative;
+                top:-13px;
+            }
+
+           
